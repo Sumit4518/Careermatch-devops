@@ -34,7 +34,8 @@ Screenshots of the running website, Jenkins build, and other verified tool integ
 ![CareerMatch Docker Screenshot](screenshots/Screenshot%202026-10-25%20235550.png)
 
 ![CareerMatch Website](screenshots/Screenshot%202026-10-26%20004817.png)
-
+### Docker Integration
+![Docker Repository](screenshots/docker-repository.png)
 
 ## Project Status
 
