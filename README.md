@@ -33,6 +33,9 @@ This project will be extended with Jenkins CI/CD, JDK, Docker, and Kubernetes co
 Screenshots of the running website, Jenkins build, and other verified tool integrations will be added here.
 ![CareerMatch Docker Screenshot](screenshots/Screenshot%202026-10-25%20235550.png)
 
+![CareerMatch Website](screenshots/Screenshot%202026-10-26%20004817.png)
+
+
 ## Project Status
 
 The current website uses sample data. Real job listings and AI-based recommendations are not yet implemented.
